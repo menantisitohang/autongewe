@@ -1,0 +1,2 @@
+# autongewe
+safelink.js
